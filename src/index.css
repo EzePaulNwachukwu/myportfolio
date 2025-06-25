@@ -35,15 +35,19 @@
 
 .resumebtn {
   background-color: #162858;
-  color: blue;
+  color: white;
   border: none;
   padding: 15px;
   border: 2px solid #ffff;
   border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+
 }
 
 .resumebtn:hover {
   background-color: aliceblue;
+  color: #162858;
 }
 
 .myname {
